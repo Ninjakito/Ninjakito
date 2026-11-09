@@ -73,29 +73,15 @@ mostly around **Odoo**, **Python** and the infrastructure that keeps it all runn
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Ninjakito/GameOfLifeCW">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ninjakito&repo=GameOfLifeCW&theme=github_dark&title_color=e53935&icon_color=e53935&hide_border=true&bg_color=1d1f21" alt="GameOfLifeCW" />
-  </a>
-</p>
-
-> **GameOfLifeCW** — John Horton Conway's *Game of Life*, implemented in Python.
+| Project | Description | Stack |
+|---|---|---|
+| 🧬 **[GameOfLifeCW](https://github.com/Ninjakito/GameOfLifeCW)** | John Horton Conway's *Game of Life*, implemented in Python. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ninjakito&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1d1f21&title_color=e53935&icon_color=e53935&text_color=c9cacc" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjakito&layout=compact&hide_border=true&bg_color=1d1f21&title_color=e53935&text_color=c9cacc" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ninjakito&hide_border=true&background=1d1f21&ring=e53935&fire=e53935&currStreakLabel=e53935&sideLabels=c9cacc&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
 </p>
-
-## 🤝 Let's connect
-
-I'm always open to interesting projects, collaborations or just a good tech chat.
-Drop me a line at **[adria@sanchezcalvo.com](mailto:adria@sanchezcalvo.com)** — I usually reply fast.
 
 <!-- Footer -->
 <p align="center">
