@@ -11,9 +11,7 @@
 
 <p align="center">
   <a href="mailto:adria@sanchezcalvo.com"><img src="https://img.shields.io/badge/Email-e53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- TODO: add your LinkedIn URL and uncomment
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://linkedin.com/in/adriasc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="http://edyma.net"><img src="https://img.shields.io/badge/EDYMA-1d1f21?style=for-the-badge&logoColor=white" alt="EDYMA" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ninjakito&style=for-the-badge&color=e53935&label=Profile+views" alt="Profile views" />
 </p>
@@ -78,6 +76,10 @@ mostly around **Odoo**, **Python** and the infrastructure that keeps it all runn
 | 🧬 **[GameOfLifeCW](https://github.com/Ninjakito/GameOfLifeCW)** | John Horton Conway's *Game of Life*, implemented in Python. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## 📊 GitHub stats
+
+<p align="center">
+  <img src="assets/top-languages.svg" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ninjakito&hide_border=true&background=1d1f21&ring=e53935&fire=e53935&currStreakLabel=e53935&sideLabels=c9cacc&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
