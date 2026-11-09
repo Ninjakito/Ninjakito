@@ -78,6 +78,10 @@ mostly around **Odoo**, **Python** and the infrastructure that keeps it all runn
 ## 📊 GitHub stats
 
 <p align="center">
+  <img src="assets/top-languages.svg" alt="Top languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ninjakito&hide_border=true&background=1d1f21&ring=e53935&fire=e53935&currStreakLabel=e53935&sideLabels=c9cacc&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
 </p>
 

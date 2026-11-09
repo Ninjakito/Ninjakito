@@ -1,0 +1,66 @@
+name: Top languages card
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily at 04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/top-languages.yml"
+
+concurrency:
+  group: top-languages
+  cancel-in-progress: true
+
+jobs:
+  # Third-party code runs here with READ-ONLY access.
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Generate cards
+        # vn7n24fzkq/github-profile-summary-cards, "release" branch as of 2026-10-25
+        uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Upload languages card
+        uses: actions/upload-artifact@330a01c490aca151604b8cf639adc76d48f6c5d4 # v5.0.0
+        with:
+          name: top-languages
+          path: profile-summary-card-output/github_dark/2-most-commit-language.svg
+          if-no-files-found: error
+          retention-days: 1
+
+  # Only first-party code runs here, with write access.
+  commit:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+
+      - uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5.0.0
+        with:
+          name: top-languages
+          path: assets
+
+      - name: Commit if changed
+        run: |
+          mv assets/2-most-commit-language.svg assets/top-languages.svg
+          git add assets/top-languages.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update top languages card"
+          git push
