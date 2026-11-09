@@ -1,45 +1,103 @@
-# 👋 Hi there!
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1f21,100:e53935&height=200&section=header&text=Adrià%20Sánchez%20Calvo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Barcelona&descAlignY=58&descSize=18" alt="Adrià Sánchez Calvo" />
+</p>
 
-I'm Adrià Sánchez Calvo, a software developer currently studying at La Salle Gràcia and working in EDYMA DIGITAL COMPANY.
+<p align="center">
+  <a href="https://github.com/Ninjakito">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E53935&center=true&vCenter=true&width=520&lines=Software+Developer+%40+EDYMA+Digital+Company;Odoo+%C2%B7+Python+%C2%B7+Docker+%C2%B7+Linux;Building+things+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <a href="mailto:adria@sanchezcalvo.com"><img src="https://img.shields.io/badge/Email-e53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- TODO: add your LinkedIn URL and uncomment
+  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  -->
+  <a href="http://edyma.net"><img src="https://img.shields.io/badge/EDYMA-1d1f21?style=for-the-badge&logoColor=white" alt="EDYMA" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ninjakito&style=for-the-badge&color=e53935&label=Profile+views" alt="Profile views" />
+</p>
 
-- 🎓 Studying at La Salle Gràcia
-- 📍 I'm from Barcelona.
-- 💬 I can speak Catalan and Spanish.
-- 💼 Working at EDYMA DIGITAL COMPANY 
+---
 
-<br>
+## 🧑‍💻 About me
 
-[![La Salle Gràcia](salle.png)](https://gracia.lasalle.cat)
-[![EDYMA](EDYMA.png)](http://edyma.net)
+<img align="right" src="EDYMA.png" width="110" alt="EDYMA Digital Company" />
 
-## 📚 Projects
+I'm **Adrià**, a software developer based in **Barcelona** 📍, currently working at
+**[EDYMA Digital Company](http://edyma.net)**, where I build and maintain business solutions —
+mostly around **Odoo**, **Python** and the infrastructure that keeps it all running.
 
-Here are some of the projects I've worked on:
+- 💼 &nbsp;Software Developer at **EDYMA Digital Company**
+- 🧩 &nbsp;Focused on ERP development, automation and backend
+- 🐳 &nbsp;Comfortable with containers, Linux servers and virtualization
+- 🌍 &nbsp;Speaks **Catalan** and **Spanish**
+- ⚡ &nbsp;Fun fact: I like turning repetitive tasks into scripts
 
-- [GameOfLifeCW](https://github.com/Ninjakito/GameOfLifeCW.git): Repository made in Python about John Horton Conway's Game of Life.
+<br clear="right" />
 
-## 📈 Stats
+## 🛠️ Tech stack
 
-![](https://github-readme-stats.vercel.app/api?username=Ninjakito&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks &amp; ERP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
 
-## 🛠 Skills
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Odoo-5D3E58?style=for-the-badge&logo=odoo&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+## 🚀 Featured projects
 
-## 📞 Contact Me
+<p align="center">
+  <a href="https://github.com/Ninjakito/GameOfLifeCW">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ninjakito&repo=GameOfLifeCW&theme=github_dark&title_color=e53935&icon_color=e53935&hide_border=true&bg_color=1d1f21" alt="GameOfLifeCW" />
+  </a>
+</p>
 
-You can reach me at:
+> **GameOfLifeCW** — John Horton Conway's *Game of Life*, implemented in Python.
 
-[![](https://img.shields.io/badge/Email-C03332?style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:adria@sanchezcalvo.com)
-[![](https://img.shields.io/badge/LINKEDIN-3371B2?style=for-the-badge&logo=LINKEDIN&logoColor=white)]()
+## 📊 GitHub stats
 
-Feel free to connect with me and explore my projects!
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ninjakito&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1d1f21&title_color=e53935&icon_color=e53935&text_color=c9cacc" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjakito&layout=compact&hide_border=true&bg_color=1d1f21&title_color=e53935&text_color=c9cacc" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ninjakito&hide_border=true&background=1d1f21&ring=e53935&fire=e53935&currStreakLabel=e53935&sideLabels=c9cacc&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
+</p>
+
+## 🤝 Let's connect
+
+I'm always open to interesting projects, collaborations or just a good tech chat.
+Drop me a line at **[adria@sanchezcalvo.com](mailto:adria@sanchezcalvo.com)** — I usually reply fast.
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,100:1d1f21&height=110&section=footer" alt="footer" />
+</p>
