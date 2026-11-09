@@ -11,9 +11,7 @@
 
 <p align="center">
   <a href="mailto:adria@sanchezcalvo.com"><img src="https://img.shields.io/badge/Email-e53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- TODO: add your LinkedIn URL and uncomment
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://linkedin.com/in/adriasc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="http://edyma.net"><img src="https://img.shields.io/badge/EDYMA-1d1f21?style=for-the-badge&logoColor=white" alt="EDYMA" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ninjakito&style=for-the-badge&color=e53935&label=Profile+views" alt="Profile views" />
 </p>
